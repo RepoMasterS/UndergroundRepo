@@ -19,14 +19,14 @@
       }
     },
     {
-      "name": "Spotify+",
+      "name": "Ipogo+",
       "version": "v1.0.0",
-      "down": "https://resources.usescarlet.com/repo/IPAs/Spotify.ipa",
+      "down": "https://ipogo.app/download/ipogo-3.1.7.ipa",
       "dev": "Aaron Corcoran",
       "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/App%20Icon.png",
-      "category": "Hacked Apps",
-      "description": "Adless Spotify w/ inf Skips",
-      "bundleID": "Spotify.AaronC.Spotify+",
+      "category": "Hacked Games",
+      "description": "Pokemon Go Hacked Version",
+      "bundleID": "Pokemon.AaronC.Pokemon",
       "contact": {
        "web": "https://github.com/RepoMasterS/UndergroundRepo",
        "github": "https://github.com/RepoMasterS/UndergroundRepo"
