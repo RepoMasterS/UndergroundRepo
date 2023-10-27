@@ -5,23 +5,18 @@
   },
   "Hacked Apps": [
     {
-    "name": "Hacked Youtube",
-    "version": "0.1",
-    "down": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa",
-    "dev": "Aaron Corcoran",
-    "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/repoimage.png",
-    "category": "Hacked Apps",
-    "description": "Adless Youtube",
-    "bundleID": "app.bundle.id",
-    "screenshots" [
-        "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/repoimage.png",
-        "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/repoimage.png",
-        "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/repoimage.png"
-    ],
-    "contact": {
+      "name": "Youtube Test",
+      "version": "1",
+      "down": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa",
+      "dev": "BomberFish",
+      "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/repoimage.png",
+      "category": "Hacked Apps",
+      "description": "Test",
+      "bundleID": "Test.Youtube.UnderGround",
+      "contact": {
         "web": "https://github.com/RepoMasterS/UndergroundRepo",
-        "twitter": "https://twitter.com/developer"
-     }
+        "fosstodon": "https://fosstodon.org/@BomberFish"
+      }
     }
   ]
 }
