@@ -45,6 +45,18 @@
        "web": "https://github.com/RepoMasterS/UndergroundRepo",
        "github": "https://github.com/RepoMasterS/UndergroundRepo"
       }
-    }
+    },
+    {
+      "name": "BeReal Unblur",
+      "version": "v1.0.0",
+      "down": "https://ipa.cypwn.xyz/ipas/BeReal_0.31.0.ipa",
+      "dev": "Aaron Corcoran",
+      "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/App%20Icon.png",
+      "category": "Aaron's Hacked Apps",
+      "description": "Unblur your friends bereal posts",
+      "bundleID": "bereal.AaronC.bereal",
+      "contact": {
+       "web": "https://github.com/RepoMasterS/UndergroundRepo",
+       "github": "https://github.com/RepoMasterS/UndergroundRepo"
   ]
 }
