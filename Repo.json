@@ -72,13 +72,13 @@
   ],
   "Sideloaded": [
     {
-      "name": "Anime Now!",
+      "name": "Adless Yotube!",
       "version": "1.0.0-beta.3",
-      "down": "https://github.com/AnimeNow-Team/AnimeNow/releases/download/1.0.0-beta.3/Anime.Now.iOS.ipa",
+      "down": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa",
       "dev": "AnimeNow Team",
       "icon": "https://raw.githubusercontent.com/AnimeNow-Team/AnimeNow/dev/Misc/Media/applogo_readme.png",
       "category": "Sideloaded",
-      "description": "Watch your favorite anime shows anytime, anywhere.",
+      "description": "Watch your favorite youtubers ad free.",
       "bundleID": "com.errorerrorerror.animenow",
       "screenshots": [
         "https://raw.githubusercontent.com/AnimeNow-Team/AnimeNow/dev/Misc/Media/iphone_home_screenshot.png",
