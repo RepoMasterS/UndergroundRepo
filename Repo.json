@@ -31,6 +31,20 @@
        "web": "https://github.com/RepoMasterS/UndergroundRepo",
        "github": "https://github.com/RepoMasterS/UndergroundRepo"
       }
+    },
+    {
+      "name": "Fake Cashapp",
+      "version": "v1.0.0",
+      "down": "https://ipa.cypwn.xyz/ipas/PropCashapp.ipa",
+      "dev": "Aaron Corcoran",
+      "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/App%20Icon.png",
+      "category": "Hacked Apps",
+      "description": "Fake version of cash app to add money and troll friends",
+      "bundleID": "cashapp.AaronC.cashapp",
+      "contact": {
+       "web": "https://github.com/RepoMasterS/UndergroundRepo",
+       "github": "https://github.com/RepoMasterS/UndergroundRepo"
+      }
     }
   ]
 }
