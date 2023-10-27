@@ -8,14 +8,14 @@
       "name": "Youtube Test",
       "version": "1",
       "down": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa",
-      "dev": "BomberFish",
+      "dev": "Aaron Corcoran",
       "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/repoimage.png",
       "category": "Hacked Apps",
       "description": "Test",
       "bundleID": "Test.Youtube.UnderGround",
       "contact": {
         "web": "https://github.com/RepoMasterS/UndergroundRepo",
-        "fosstodon": "https://fosstodon.org/@BomberFish"
+        "github": "https://github.com/RepoMasterS/UndergroundRepo"
       }
     }
   ]
