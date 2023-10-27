@@ -5,13 +5,13 @@
   },
   "Hacked Apps": [
     {
-      "name": "Youtube Test",
+      "name": "Youtube+",
       "version": "1",
       "down": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa",
       "dev": "Aaron Corcoran",
-      "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/repoimage.png",
+      "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/App%20Icon.png",
       "category": "Hacked Apps",
-      "description": "Test",
+      "description": "This version of youtube allows you to download videos, view dislikes, and watch ad-free",
       "bundleID": "Test.Youtube.UnderGround",
       "contact": {
         "web": "https://github.com/RepoMasterS/UndergroundRepo",
@@ -19,17 +19,17 @@
       }
     },
     {
-      "name": "AppCommander",
+      "name": "Spotify+",
       "version": "v1.0.0",
-      "down": "https://github.com/BomberFish/AppCommander/releases/download/v1.0.0/AppCommander_v1.0.0.ipa",
-      "dev": "BomberFish",
-      "icon": "https://raw.githubusercontent.com/BomberFish/AppCommander/main/AppCommander/Assets.xcassets/AppIcon.appiconset/app%20commander%20v2.png",
-      "category": "Macdirtycow",
-      "description": "A swiss army knife for your iPhone apps. iOS 15.5-16.2.",
-      "bundleID": "ca.bomberfish.AppCommander",
+      "down": "https://resources.usescarlet.com/repo/IPAs/Spotify.ipa",
+      "dev": "Aaron Corcoran",
+      "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/App%20Icon.png",
+      "category": "Hacked Apps",
+      "description": "Adless Spotify w/ inf Skips",
+      "bundleID": "Spotify.AaronC.Spotify+",
       "contact": {
-        "web": "https://bomberfish.ca/",
-        "fosstodon": "https://fosstodon.org/@BomberFish"
+       "web": "https://github.com/RepoMasterS/UndergroundRepo",
+       "github": "https://github.com/RepoMasterS/UndergroundRepo"
       }
     }
   ]
