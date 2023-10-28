@@ -61,7 +61,7 @@
       } 
     }, 
     {
-      "name": "Class Of Clans test",
+      "name": "Class Of Clans",
       "version": "v1.0.0",
       "down": "http://94.142.139.173/sign/nullsclash.ipa",
       "dev": "Aaron Corcoran",
@@ -73,6 +73,32 @@
        "web": "https://github.com/RepoMasterS/UndergroundRepo",
        "github": "https://github.com/RepoMasterS/UndergroundRepo"
       }
-    }
+    },
+    {
+      "name": "Class Royale",
+      "version": "v1.0.0",
+      "down": "http://94.142.139.173/sign/nullsroyale.ipa",
+      "dev": "Aaron Corcoran",
+      "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/1App%20Icon.png",
+      "category": "Aaron's Hacked Games",
+      "description": "Private server for Clash Royale with inf currency and unlock all cards",
+      "bundleID": "cre.AaronC.cre",
+      "contact": {
+       "web": "https://github.com/RepoMasterS/UndergroundRepo",
+       "github": "https://github.com/RepoMasterS/UndergroundRepo"
+      }
+    },
+    {
+       "name": "Brawl Stars",
+      "version": "v1.0.0",
+      "down": "http://94.142.139.173/sign/nullsbrawl.ipa",
+      "dev": "Aaron Corcoran",
+      "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/1App%20Icon.png",
+      "category": "Aaron's Hacked Games",
+      "description": "Private server for Brawl Starts with inf currency and unlock all cards",
+      "bundleID": "cree.AaronC.cree",
+      "contact": {
+       "web": "https://github.com/RepoMasterS/UndergroundRepo",
+       "github": "https://github.com/RepoMasterS/UndergroundRepo"
   ]
 }
