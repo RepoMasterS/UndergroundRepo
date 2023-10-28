@@ -63,7 +63,7 @@
     {
       "name": "Class Of Clans",
       "version": "v1.0.0",
-      "down": "itms-services://?action=download-manifest&url=https://nulls-clash.com/ios-install-2",
+      "down": "http://94.142.139.173/sign/nullsclash.ipa",
       "dev": "Aaron Corcoran",
       "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/1App%20Icon.png",
       "category": "Aaron's Hacked Games",
