@@ -116,6 +116,7 @@
        "github": "https://github.com/RepoMasterS/UndergroundRepo"
       }
     },
+    {
       "name": "Bloons TD 6",
       "version": "v1.0.0",
       "down": "https://archive.org/download/bloons-td-6-39.0-le-ti/Bloons%20TD%206_39.0_LeTi.ipa",
@@ -127,5 +128,7 @@
       "contact": {
        "web": "https://github.com/RepoMasterS/UndergroundRepo",
        "github": "https://github.com/RepoMasterS/UndergroundRepo"
+      }
+    }
   ]
 }
