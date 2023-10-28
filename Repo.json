@@ -89,7 +89,7 @@
       }
     },
     {
-       "name": "Brawl Stars",
+      "name": "Brawl Stars",
       "version": "v1.0.0",
       "down": "http://94.142.139.173/sign/nullsbrawl.ipa",
       "dev": "Aaron Corcoran",
@@ -101,6 +101,18 @@
        "web": "https://github.com/RepoMasterS/UndergroundRepo",
        "github": "https://github.com/RepoMasterS/UndergroundRepo"
       }
-    }
+    },
+    {
+      "name": "Minecraft",
+      "version": "v1.0.0",
+      "down": "https://omtk.xyz/IPA/Minecraft.ipa",
+      "dev": "Aaron Corcoran",
+      "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/1App%20Icon.png",
+      "category": "Aaron's Free Games",
+      "description": "Its just a free version of minecraft",
+      "bundleID": "cree.AaronC.cree",
+      "contact": {
+       "web": "https://github.com/RepoMasterS/UndergroundRepo",
+       "github": "https://github.com/RepoMasterS/UndergroundRepo"
   ]
 }
