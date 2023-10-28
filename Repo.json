@@ -129,6 +129,18 @@
        "web": "https://github.com/RepoMasterS/UndergroundRepo",
        "github": "https://github.com/RepoMasterS/UndergroundRepo"
       }
-    }
+    },
+    {
+      "name": "Geometry Dash",
+      "version": "v1.0.0",
+      "down": "https://download1334.mediafire.com/5j42bmzwchjgQjBE3Yo4R8rCgbO96SUABBdNIxeQ-adJIz0GFK5sBaVu7W7pDQEtNBER9XNFMWDgSUWe7xqa-dRVbm_Qw3s52Ht5I-7-XvoYalVsChGIjvXh5PfPyg0E7nW4qyIq2vaKTF5Etrah2RNHaIUdRKLzWTS28XQS6AB0/nh1eiomygtkdoy6/Geometry-Dash-v2-113.ipa",
+      "dev": "Aaron Corcoran",
+      "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/1App%20Icon.png",
+      "category": "Aaron's Free Games",
+      "description": "Its just a free version of Geometry Dash",
+      "bundleID": "cree.AaronC.cree",
+      "contact": {
+       "web": "https://github.com/RepoMasterS/UndergroundRepo",
+       "github": "https://github.com/RepoMasterS/UndergroundRepo"
   ]
 }
