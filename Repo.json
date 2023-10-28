@@ -143,6 +143,74 @@
        "web": "https://github.com/RepoMasterS/UndergroundRepo",
        "github": "https://github.com/RepoMasterS/UndergroundRepo"
       }
-    }
+    },
+    {
+      "name": "Corssy Road",
+      "version": "v1.0.0",
+      "down": "https://omtk.xyz/IPA/Crossy-Road.ipa",
+      "dev": "Aaron Corcoran",
+      "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/1App%20Icon.png",
+      "category": "Aaron's Hacked Games",
+      "description": "Modded version of crossy road with unlocked items",
+      "bundleID": "cree.AaronC.cree",
+      "contact": {
+       "web": "https://github.com/RepoMasterS/UndergroundRepo",
+       "github": "https://github.com/RepoMasterS/UndergroundRepo"
+      }
+    },
+    {
+      "name": "Fnaf 1",
+      "version": "v1.0.0",
+      "down": "https://omtk.xyz/IPA/Five-Nights-at-Freddys.ipa",
+      "dev": "Aaron Corcoran",
+      "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/1App%20Icon.png",
+      "category": "Aaron's Hacked Games",
+      "description": "Free Fnaf Game",
+      "bundleID": "cree.AaronC.cree",
+      "contact": {
+       "web": "https://github.com/RepoMasterS/UndergroundRepo",
+       "github": "https://github.com/RepoMasterS/UndergroundRepo"
+      }
+    },
+    {
+      "name": "Fnaf 2",
+      "version": "v1.0.0",
+      "down": "https://omtk.xyz/IPA/Five-Nights-at%20Freddys.2.ipa",
+      "dev": "Aaron Corcoran",
+      "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/1App%20Icon.png",
+      "category": "Aaron's Hacked Games",
+      "description": "Free Fnaf Game",
+      "bundleID": "cree.AaronC.cree",
+      "contact": {
+       "web": "https://github.com/RepoMasterS/UndergroundRepo",
+       "github": "https://github.com/RepoMasterS/UndergroundRepo"
+      }
+    },
+    {
+      "name": "Fnaf 3",
+      "version": "v1.0.0",
+      "down": "https://omtk.xyz/IPA/Five-Nights-at%20Freddys.3.ipa",
+      "dev": "Aaron Corcoran",
+      "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/1App%20Icon.png",
+      "category": "Aaron's Hacked Games",
+      "description": "Free Fnaf Game",
+      "bundleID": "cree.AaronC.cree",
+      "contact": {
+       "web": "https://github.com/RepoMasterS/UndergroundRepo",
+       "github": "https://github.com/RepoMasterS/UndergroundRepo"
+      }
+    },
+     {
+      "name": "Fnaf 4",
+      "version": "v1.0.0",
+      "down": "https://omtk.xyz/IPA/Five-Nights-at-Freddys-4.ipa",
+      "dev": "Aaron Corcoran",
+      "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/1App%20Icon.png",
+      "category": "Aaron's Hacked Games",
+      "description": "Free Fnaf Game",
+      "bundleID": "cree.AaronC.cree",
+      "contact": {
+       "web": "https://github.com/RepoMasterS/UndergroundRepo",
+       "github": "https://github.com/RepoMasterS/UndergroundRepo"
   ]
 }
