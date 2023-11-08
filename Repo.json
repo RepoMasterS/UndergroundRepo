@@ -1,17 +1,17 @@
 {
   "META": {
-    "repoName": "TESTING",
+    "repoName": "TESTIng",
     "repoIcon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/repoimage.png"
   },
   "Hacked Apps": [
     {
-      "name": "Peacock+",
+      "name": "Tubi+",
       "version": "v1.0.0",
-      "down": "https://omtk.xyz/IPA/Peacock.ipa",
+      "down": "https://omtk.xyz/IPA/Tubi.ipa",
       "dev": "Aaron Corcoran",
       "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/1App%20Icon.png",
       "category": "Aaron's Hacked Apps",
-      "description": "This version of youtube allows you to download videos, view dislikes, and watch ad-free",
+      "description": "Free Movies and TV, AD-Free",
       "bundleID": "Test.Youtube.UnderGround",
       "contact": {
         "web": "https://github.com/RepoMasterS/UndergroundRepo",
