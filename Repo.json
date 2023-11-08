@@ -229,9 +229,9 @@
       }
     },
     { 
-      "name": "Contest Winning App",
+      "name": "Goat Simulator",
       "version": "v1.0.0",
-      "down": "",
+      "down": "https://archive.org/download/goat-simulator-waste-of-space-2.0.6-le-ti/Goat%20Simulator_2.0.6_LeTi.ipa",
       "dev": "Aaron Corcoran",
       "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/1App%20Icon.png",
       "category": "Aaron's Free Movies/Tv",
