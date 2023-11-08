@@ -256,6 +256,7 @@
        "github": "https://github.com/RepoMasterS/UndergroundRepo"
       }
     },
+    {
       "name": "Magic Tiles 3",
       "version": "v1.0.0",
       "down": "https://omtk.xyz/IPA/Magic-Tiles-3.ipa",
@@ -267,7 +268,7 @@
       "contact": {
        "web": "https://github.com/RepoMasterS/UndergroundRepo",
        "github": "https://github.com/RepoMasterS/UndergroundRepo"
-}
+      }
     }
   ]
 }
